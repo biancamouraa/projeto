@@ -81,7 +81,8 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide_back 0.2s;
+  animation: slide_back 0.3s;
+  
 }
 
 .light #switch button {
@@ -155,6 +156,7 @@ ul li a:hover {
   border-radius: 50%;
 
   transition: background 0.2s;
+
 }
 
 #social-links a:hover {
